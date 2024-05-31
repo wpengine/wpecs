@@ -1,3 +1,7 @@
+## Deprecation Notice
+
+This project is no longer actively maintained. We recommend using the [WordPress Coding Standards](https://github.com/WordPress/WordPress-Coding-Standards) and use their [recommended configuration](https://github.com/WordPress/WordPress-Coding-Standards/blob/develop/phpcs.xml.dist.sample) for your project.
+
 ## About
 
 WP Engine Coding Standards for WordPress
